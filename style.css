@@ -1,1 +1,33 @@
-body 
+body {
+
+background-color: lightblue; 
+
+
+}
+
+h1 {
+
+font-family: 'Crimson Text', serif;
+font-size: 40px;
+text-align: center;
+
+	color:blue;
+
+}
+
+p {
+
+
+font-family: 'Crimson Text', serif;
+font-size: 40px;
+text-align: left;
+
+
+}
+img {
+
+	display: block;
+	height: 150px;
+	width: 375px;
+
+}
