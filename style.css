@@ -26,8 +26,22 @@ text-align: left;
 }
 img {
 
-	display: block;
-	height: 150px;
-	width: 375px;
+display: block;
+height: 150px;
+width: 375px;
 
 }
+
+#title {
+
+
+backround:green;
+width: 800px;
+padding: 15px;
+margin-top:15px;
+margin-left:15px;
+border-radius: 5px;
+
+
+}
+
