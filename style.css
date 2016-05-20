@@ -34,14 +34,12 @@ width: 375px;
 
 #title {
 
-
-backround:green;
-width: 800px;
-padding: 15px;
-margin-top:15px;
-margin-left:15px;
-border-radius: 5px;
-
-
+    background-color:green;
+    width: 600px;
+    height: 100px;
+    border-radius: 15px;
 }
+
+#main {
+background:#008ae6;
 
